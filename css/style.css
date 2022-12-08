@@ -23,13 +23,13 @@
 }
 
 @font-face {
-  font-family: VAGRounded;
-  src: url(../assets/fonts/vag-rounded/VAGRounded.eot);
-  src: url(../assets/fonts/vag-rounded/VAGRounded.eot#iefix) format('embedded-opentype'),
-       url(../assets/fonts/vag-rounded/VAGRounded.woff2) format('woff2'),
-       url(../assets/fonts/vag-rounded/VAGRounded.woff) format('woff'),
-       url(../assets/fonts/vag-rounded/VAGRounded.ttf) format('truetype'),
-       url(../assets/fonts/vag-rounded/VAGRounded.svg#VAGRoundedBT-Regular) format('svg');
+  font-family: FolksDecoon;
+  src: url(../assets/fonts/folksdecoon/FolksDecoon.eot);
+  src: url(../assets/fonts/folksdecoon/FolksDecoon.eot#iefix) format('embedded-opentype'),
+       url(../assets/fonts/folksdecoon/FolksDecoon.woff2) format('woff2'),
+       url(../assets/fonts/folksdecoon/FolksDecoon.woff) format('woff'),
+       url(../assets/fonts/folksdecoon/FolksDecoon.ttf) format('truetype'),
+       url(../assets/fonts/folksdecoon/FolksDecoon.svg#FolksDecoon-Light) format('svg');
 }
 
 @font-face {
